@@ -1,6 +1,6 @@
 # Sales Order Reconciliation API
 
-An interview-ready REST API project demonstrating:
+REST API project demonstrating:
 
 - Node.js + Express
 - SQL Server
