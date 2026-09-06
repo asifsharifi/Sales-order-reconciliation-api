@@ -1,0 +1,23 @@
+{
+  "name": "sales-order-reconciliation-api",
+  "version": "1.0.0",
+  "description": "Interview-ready REST API demo using Node.js, Express, SQL Server, Swagger and Postman.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "msnodesqlv8": "^5.3.0",
+    "mssql": "^11.0.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
